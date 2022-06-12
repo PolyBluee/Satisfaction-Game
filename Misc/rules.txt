@@ -1,0 +1,6 @@
+1. Lines with no "⏎" symbol at the end proceed automatically. It is recommended not to press any key, think of it like a "reflex test".
+2. Lines with "⏎" symbol at the end need a keypress to continue. The key can be any key except of course, the power button.
+3. Sometimes the narrator can interrupt while talking, which will be shown in bracked using the words Narr.
+For example,
+You:   Lorem Ipsum Dolor!    (Narr: Yeah, type in filler text now... That's all you have.)
+4. New rules and clues may appear as time goes by.
